@@ -14,7 +14,9 @@ Tutor and permanent substitute in TAG Elementary School (Sep. 2022-current)
 Responsible for coordinating communication between students and teachers, using creative, articulate ways to explain material to students with trouble grasping concepts.
 Math Tutor (Sep. 2022-current) 
 Respected for reliability and expert communication skills used.
-###Skills:
+
+### Skills
 Python; SQL; R; Excel; and Google Sheets.
-###Relevant Coursework:
+
+### Relevant Coursework
 •Advanced Statistics • Data Mining • SQL for Data Science • Data Structures and Algorithms • Differential and Integral Calculus • Corpor
