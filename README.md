@@ -23,4 +23,4 @@ Python; SQL; R; Excel; and Google Sheets.
 ### Project Links
 https://colab.research.google.com/github/DaniellaB1/porfolio/blob/main/BankingMarketingDataAnalysis.ipynb
 https://colab.research.google.com/github/DaniellaB1/porfolio/blob/main/Cleankindledata.ipynb
-
+Kindle Popularity.pdf
