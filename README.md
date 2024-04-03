@@ -22,3 +22,4 @@ Python; SQL; R; Excel; and Google Sheets.
 •Advanced Statistics • Data Mining • SQL for Data Science • Data Structures and Algorithms • Differential and Integral Calculus • Corpor
 ### Project Links
 https://colab.research.google.com/github/DaniellaB1/porfolio/blob/main/BankingMarketingDataAnalysis.ipynb
+https://colab.research.google.com/github/DaniellaB1/porfolio/blob/main/Cleankindledata.ipynb
