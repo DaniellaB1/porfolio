@@ -24,3 +24,5 @@ Python; SQL; R; Excel; and Google Sheets.
 https://colab.research.google.com/github/DaniellaB1/porfolio/blob/main/BankingMarketingDataAnalysis.ipynb
 https://colab.research.google.com/github/DaniellaB1/porfolio/blob/main/Cleankindledata.ipynb
 Kindle Popularity.pdf
+https://www.canva.com/design/DAGLCHvHe2o/iNDy3DCp_Z2nFeJJbBmUfw/edit?utm_content=DAGLCHvHe2o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://colab.research.google.com/drive/1Uc2mrktl7kudY-IX9uq2W4GGW1WUgxe7?usp=sharing
